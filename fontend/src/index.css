@@ -1,0 +1,4 @@
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+*{box-sizing:border-box}html{min-width:320px;min-height:100%;background:#faf9f6}body{margin:0;min-width:320px;min-height:100vh}button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid #9da775;outline-offset:2px}::selection{background:#dfe6bf;color:#30351e}

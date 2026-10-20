@@ -1,0 +1,8 @@
+.env
+.git
+node_modules
+vendor
+storage/logs/*
+database/*.sqlite
+database/*.sqlite-journal
+tests
